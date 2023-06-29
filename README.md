@@ -8,23 +8,23 @@ I want to make the space for users to help without overwhelming them with other 
 - 👋 I’m looking to collaborate on pretty much anything, just contact me!
  
   <div>
-  <h2 font-weight="bold">Programming Language</h2>
+  <h3 font-weight="bold">Programming Language</h3>
    <div align="left">
-    <code><img alt="Rust" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg"></code>
-    <code><img  alt="Solidity" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg"></code>
-    <code><img alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></code>
-     <code><img alt="Nodejs" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/></code>
-    <code><img  alt="PHP" height="50" width="50" src="https://profilinator.rishav.dev/skills-assets/php-original.svg"/></code>
+    <code><img alt="Rust" height="25" width="25" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg"></code>
+    <code><img  alt="Solidity" height="25" width="25" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg"></code>
+    <code><img alt="Python" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></code>
+     <code><img alt="Nodejs" height="25" width="25" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/></code>
+    <code><img  alt="PHP" height="25" width="25" src="https://profilinator.rishav.dev/skills-assets/php-original.svg"/></code>
     <a href="https://www.qt.io/" target="_blank">
-      <code><img  alt="qt" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg"/></code>
+      <code><img  alt="qt" width="25" height="25" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg"/></code>
     </a>
-    <code><img alt="Kadu-Bootstrap" height="50" width="50" src="https://img.icons8.com/color/2x/javascript.png"/></code>
-    <code><img alt="TypeScript" height="50" width="50" src="https://img.icons8.com/color/2x/typescript.png"></code>
-    <code><img alt="CSS3" height="50" width="50" src="https://img.icons8.com/color/2x/css3.png"/></code>
-    <code><img alt="html5" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/></code>
+    <code><img alt="Kadu-Bootstrap" height="25" width="25" src="https://img.icons8.com/color/2x/javascript.png"/></code>
+    <code><img alt="TypeScript" height="25" width="25" src="https://img.icons8.com/color/2x/typescript.png"></code>
+    <code><img alt="CSS3" height="25" width="25" src="https://img.icons8.com/color/2x/css3.png"/></code>
+    <code><img alt="html5" width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/></code>
   </div>
 
-  <h2 font-weight="bold">Back End</h2>
+  <h3 font-weight="bold">Back End</h3>
     <div align="left">
     <code><img alt="Express" height="25" width="25" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"></code>
     <code><img alt="nestjs" height="25" width="25" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg"/></code>
@@ -39,7 +39,7 @@ I want to make the space for users to help without overwhelming them with other 
     <code><img alt="Symphoy" height="25" width="25" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg"></code>
   
     </div>
-  <h2 font-weight="bold">Front End</h2>
+  <h3 font-weight="bold">Front End</h3>
   <div>
     <div align="left">
     <code><img alt="Html" height="25" width="25" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
@@ -54,7 +54,7 @@ I want to make the space for users to help without overwhelming them with other 
     <code><img alt="Symphoy" height="25" width="25" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"></code>
     </div>
   </div>
-  <h2 font-weight="bold">Other</h2>
+  <h3 font-weight="bold">Other</h3>
   <div>
     <div align="left">
     <code><img alt="Html" height="25" width="25" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></code>
