@@ -6,22 +6,7 @@ I want to make the space for users to help without overwhelming them with other 
 - 🔭 Over 11 years of programming experience
 - 🌱 FullStack, BlockChain, AI, Dicom Expert
 - 👋 I’m looking to collaborate on pretty much anything, just contact me!
-
-  <h1 style="position: absolute; color: white; bottom: 15px; transform: translate(-50%, 0); left: 50%">Senior Full Stack Blockchain Developer</h1>
-<br>
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif" width="400" />
-  <p>
-
-  Creative, Passionate, and Efficient Senior Full-Stack developer and Web3 & Cryptocurrency engineer with over 4 years of experience in BlockChain and of over 7 years in web, mobile and desktop applications design, development, and maintenance. Possesses diverse experience of creating multiple highly scalable applications using different tech stacks. 
-  
-  Very familiar with all tech stacks related to web and mobile development. React and MERN stack is my best tech stack and also familiar with Vue, Angular, Laravel, Node, Pure PHP and React Native, Flutter, Swift, Java for mobiles.
-  
-  Leaded successful transition from MEAN & MERN Stack to Web3 & Cryptocurrency Stack to improve Web3.0 system performance which is the focus and the future of our life, so for now implemented DAO, DEX, DApp, NFT Marketplaces by using solidity, rust and web3. 
-Have worked in all phases of the project life cycle, using a wide variety of tools and frameworks.
-</p>
-<br/>
-<br/>
-
+ 
   <div>
   <h2 font-weight="bold">Programming Language</h2>
    <div align="left">
