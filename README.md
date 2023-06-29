@@ -1,4 +1,4 @@
-<h1>AAAAA</h1>
+<h1 style="margin:0 auto;">AAAAA</h1>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub!;👋,+I+uses+talent+to+make+the+impossible+possible.;Over+11+years+of+programming+experience;FullStack+BlockChain+AI+Dicom+Export)](https://git.io/typing-svg)
 
       <svg xmlns="http://www.w3.org/2000/svg" width="450" height="195" viewBox="0 0 450 195" fill="none" role="img" aria-labelledby="descId">
