@@ -2,5 +2,5 @@
 
 I know, this profile is pretty bare right now, but I'll probably work on it more when my motivation to program improves again.
 - 🔭 Over 11 years of programming experience
-- 🌱 FullStack BlockChain AI Dicom Export
+- 🌱 FullStack, BlockChain, AI, Dicom Expert
 - 👋 I’m looking to collaborate on pretty much anything, just contact me!
